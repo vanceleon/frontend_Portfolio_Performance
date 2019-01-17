@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\VLeon\\.virtualenvs\\Portfolio_Performance-3mDTdAF5\\Scripts\\python.exe"
+    "python.pythonPath": "C:\\Users\\VLeon\\.virtualenvs\\Portfolio_Performance-3mDTdAF5\\Scripts\\python.exe",
+    "python.linting.pylintEnabled": false
 }
